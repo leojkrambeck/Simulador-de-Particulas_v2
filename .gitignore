@@ -1,0 +1,17 @@
+# build gerado pelo CMake (inclui o SFML baixado via FetchContent)
+/build/
+/out/
+/output/
+
+# config de ferramentas locais, nao faz parte do projeto
+/.vscode/
+/.claude/
+
+# artefatos comuns de IDE/SO
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.log
+Thumbs.db
+.DS_Store
